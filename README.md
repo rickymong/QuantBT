@@ -1,4 +1,4 @@
-# quantbt — a backtester that tries to prove itself wrong
+# QuantBT — a backtester that tries to prove itself wrong
 
 Most backtesting projects answer one question: *did this strategy make money
 in the past?* This one answers the question that actually matters:
